@@ -1,34 +1,35 @@
-# Header Hero SPA - Proyecto CSS
+# Modern Art Gallery
 
-Este proyecto es un **header-hero** para una página web de un negocio tipo SPA.  
-Se ha creado siguiendo el diseño que nos dieron en Figma y el PDF de referencia.
+Este proyecto es un sitio web estático para una galería de arte moderno, creado siguiendo el diseño proporcionado en Figma y el PDF de referencia de la asignatura.
 
----
+## Descripción
+
+El objetivo del proyecto fue construir una página web **responsive**, siguiendo la metodología **mobile-first**, adaptándose a:
+
+- Mobile (375px)
+- Tablet
+- Laptop
+- Desktop (1440px)
+
+Se implementó un diseño estático con HTML y CSS (organizado con SASS) y se incluyeron elementos como imágenes, iconos SVG, botones con efectos hover y un footer con información de contacto y redes sociales.
 
 ## Qué incluye el proyecto
 
-- HTML y CSS (SASS para organizar mejor los estilos)
+- Estructura HTML semántica
+- CSS con SASS para organizar mejor los estilos
+- Imágenes optimizadas para la galería
+- Footer con logo, información y redes sociales
+- Diseño **responsive mobile-first**
 - Iconos en formato SVG
 - Botones con efecto hover
-- Diseño estático (no es responsive)
 
----
+## Visualización del proyecto
 
-## Ver el proyecto en línea
+Para ver el proyecto en línea, puedes usar [GitHub Pages](https://fabianserrano1.github.io/modern-art-gallery/).
 
-Puedes ver el proyecto funcionando en:  
-[https://fabianserrano1.github.io/header_spa_and_beauty/](https://fabianserrano1.github.io/header_spa_and_beauty/)
+## Cómo probarlo en tu computadora
 
----
+1. Clona el repositorio:
 
-## Cómo probarlo en tu computadora (opcional)
-
-1. Clonar el repositorio:
-
-git clone https://github.com/fabianserrano1/header_spa_and_beauty.git
-
-2. Entrar en la carpeta del proyecto:
-
-cd header_spa_and_beauty
-
-3. Abrir `index.html` en tu navegador para ver el proyecto.
+```bash
+git clone https://github.com/fabianserrano1/modern-art-gallery.git
